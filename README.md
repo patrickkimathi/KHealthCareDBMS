@@ -106,4 +106,5 @@ Project Developer:PATRICK KARIUKI
 
 ===============================================================================
 ENTITY RELATIONSHIP DIAGRAM FOR healthDB
-<img width="1007" height="1204" alt="ERD DIAGRAM" src="https://github.com/user-attachments/assets/ca33c348-f7e7-4995-9f34-904cdb340266" />
+<img width="1007" height="1204" alt="ERD DIAGRAM" src="https://github.com/user-attachments/assets/cab21195-5d3b-4591-a34e-8f7811421f0a" />
+
