@@ -104,3 +104,5 @@ Author
 Project Developer:PATRICK KARIUKI
 
 Date: 22/08/2025
+<img width="1007" height="1204" alt="ERD DIAGRAM" src="https://github.com/user-attachments/assets/ca33c348-f7e7-4995-9f34-904cdb340266" />
+
