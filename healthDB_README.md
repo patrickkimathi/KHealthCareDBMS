@@ -102,7 +102,6 @@ WHERE p.PATIENTID = 1;
 
 Author
 Project Developer:PATRICK KARIUKI
-
 Date: 22/08/2025
 ===============================================================================
 ENTITY RELATIONSHIP DIAGRAM FOR healthDB
